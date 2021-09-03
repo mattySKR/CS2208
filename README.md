@@ -4,7 +4,7 @@ Computer Organization and Architecture
 # Course Description
 
 Internal representation of various data types, including characters, integers, and floating-points. 
-Aaddition and subtraction operations and how they are internally performed.
+Addition and subtraction operations and how they are internally performed.
 Architectural components of digital computers, how these components are interconnected, and 
 the nature of the information flow between them. Assembly language (ARM) is used to reinforce these issues.
 Practice understanding of how a computer works (organization) and what a computer does (architecture).
